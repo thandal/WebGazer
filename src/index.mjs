@@ -437,6 +437,7 @@ async function loadGlobalData() {
   }
 
   console.log("loaded stored data into regression model");
+  console.log(`${data}`);
 }
 
 /**
